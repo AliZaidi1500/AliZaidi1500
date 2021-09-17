@@ -28,4 +28,4 @@
 <br />
 
 ### Recent Projects:
-- [6ixCameraRadar][https://github.com/AliZaidi1500/6ixCameraRadar]
+- [6ixCameraRadar](https://github.com/AliZaidi1500/6ixCameraRadar)
